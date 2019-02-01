@@ -1,0 +1,5 @@
+com\it\pojo\User.class
+com\it\controller\UserController.class
+com\it\service\IUserService.class
+com\it\service\impl\IUserServiceImpl.class
+com\it\dao\IUserDao.class
